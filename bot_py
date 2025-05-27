@@ -20,8 +20,8 @@ products = {
 }
 
 PIX_KEY = "seu_email@pix.com"
-ADMIN_ID = 123456789  # Troque pelo seu ID do Telegram
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+ADMIN_ID = 6801764001  # Troque pelo seu ID do Telegram
+BOT_TOKEN = os.getenv("7729430139:AAEtc4XSK3Uw4P5IjzdBqEx0jxeVMGkwdYA")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     buttons = [
